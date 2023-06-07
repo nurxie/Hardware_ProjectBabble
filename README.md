@@ -6,6 +6,7 @@
 
 - In this repository there will be only an addition in the form of *microcontroller firmware and instructions for assembling the* **mouth tracker** *itself*.
 
+- 3d models available for printing fasteners for vr-helmet
 
 ## How to run 
 0. You will need an ESP32-CAM for assembly. It is better to purchase a board with a built-in programmer, but it can be connected separately. I advise you to use a standard OV2640 camera with a viewing angle of 60 degrees. ![Logo](https://arduino-tutorials.net/public/img/parts/esp32-camera.jpg)
@@ -62,8 +63,9 @@
 
 # TODO
 - [x] Make a repository :tada:
-- [ ] Adding 3d models for mounting the camera on the vr-helmet
-- [ ] Adding 3d models of the camera body
+- [x] Adding 3d models for mounting the camera on the vr-helmet
+- [x] Adding 3d models of the camera body
 - [ ] Adding Illumination (Infrared Illumination)
+- [ ] Adding **more** 3d models for mounting the camera on the vr-helmet
 
 - [ ] Make a prefab for the unity vrchat model (sometime later ¯\_(ツ)_/¯ )

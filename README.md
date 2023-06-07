@@ -8,7 +8,7 @@
 
 
 ## How to run 
-0. You will need an ESP32-CAM for assembly. It is better to purchase a board with a built-in programmer, but it can be connected separately. I advise you to use a standard OV2640 camera with a viewing angle of 60 degrees. ![Logo](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_CAM_ESP32_001.png)
+0. You will need an ESP32-CAM for assembly. It is better to purchase a board with a built-in programmer, but it can be connected separately. I advise you to use a standard OV2640 camera with a viewing angle of 60 degrees. ![Logo](https://synthiam.com/Uploads/Firmwares/HLT3KZKGG3F/HLT3KZKGG3F.jpeg)
 1. Install Visual Studio Code. Download the [**latest Visual Studio Code**](https://code.visualstudio.com/download) and install it.
 2. Install [**PlatformIO IDE**](https://platformio.org/platformio-ide) (_you can follow the link or install it from Visual Studio Code itself_)
 - Once Visual Studio Code is installed, open it and install PlatformIO IDE for VSCode, an extension that will allow you to connect to the tracker, build and upload the firmware.  

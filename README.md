@@ -8,6 +8,7 @@
 
 
 ## How to run 
+0. You will need an ESP32-CAM for assembly. It is better to purchase a board with a built-in programmer, but it can be connected separately. I advise you to use a standard OV2640 camera with a viewing angle of 60 degrees. ![Logo](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_CAM_ESP32_001.png)
 1. Install Visual Studio Code. Download the [**latest Visual Studio Code**](https://code.visualstudio.com/download) and install it.
 2. Install [**PlatformIO IDE**](https://platformio.org/platformio-ide) (_you can follow the link or install it from Visual Studio Code itself_)
 - Once Visual Studio Code is installed, open it and install PlatformIO IDE for VSCode, an extension that will allow you to connect to the tracker, build and upload the firmware.  
@@ -57,3 +58,12 @@
 # Super Conclusion
 - Part of the photo, instructions and information was taken from the [**SlimeVR**](https://docs.slimevr.dev/) , [**OpenIris**](https://github.com/lorow/OpenIris) and [**EyeTrakingVR**](https://docs.eyetrackvr.dev/).
 - This repository and the project itself are still under development, there may be changes.
+- I advise you to use an external Wi-Fi antenna for the microcontroller to improve the stable video stream.
+
+# TODO
+- [x] Make a repository :tada:
+- [ ] Adding 3d models for mounting the camera on the vr-helmet
+- [ ] Adding 3d models of the camera body
+- [ ] Adding Illumination (Infrared Illumination)
+
+- [ ] Make a prefab for the unity vrchat model (sometime later ¯\_(ツ)_/¯ )

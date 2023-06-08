@@ -27,7 +27,7 @@
 
 5. Configuring the firmware
 - After successfully opening the project, you will see a list of project files on the left. You need to open the _**ini**_ folder and find the _**user_config.ini**_ file there.
-    ![Logo]https://github.com/nurxie/Hardware_ProjectBabble/blob/main/.image/successfully_opening_the_project.png) 
+    ![Logo](https://github.com/nurxie/Hardware_ProjectBabble/blob/main/.image/successfully_opening_the_project.png) 
 - Replace the placeholder (_YOUR_SSID/YOUR_PASSWORD_) text with your correct SSID (WiFi access point name), and password respectfully.
   - Special characters such as **!** and **@** are not supported. If you have a special character in your password or ssid, you will need to change it.
   - Spaces are not supported either. If you have a space in either, you will need to change it.
